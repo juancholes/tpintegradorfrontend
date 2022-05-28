@@ -1,0 +1,63 @@
+nav  {
+    padding: 10px;
+    height: 55px;
+}
+
+.navbar-brand {
+    color: #f0f0f0;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+    font-size: 23px;
+}
+
+#navbarNav {
+    color: #f0f0f0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 30px;   
+}
+
+.card-body {
+    text-align: center;
+    margin: auto;
+}
+
+.row {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    width: 50%;
+}
+
+.form-select {
+    color: grey;
+}
+
+#totalcompra {
+    flex: auto;
+    width:auto;
+    font-weight: bold;
+}
+
+button  {
+    flex: auto;
+    color: white;
+    background-color: #96c93e;;
+    padding: 6px;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+footer {
+    color: #f0f0f0;
+    padding: 20px;
+    background: linear-gradient(90deg, rgba(29,55,68,1) 0%, rgb(18, 75, 107) 100%);
+}
+
+footer ul .nav-link {
+    font-weight: bold;
+    color: #f0f0f0;
+    margin-left: 30px;
+    margin-right: 30px;
+}
